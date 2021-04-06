@@ -1,0 +1,346 @@
+{
+    "sshfs.configs": [
+        {
+            "host": "139.59.215.6",
+            "name": "apache-server",
+            "password": "Q12ad44F@big&SMALL",
+            "root": "/",
+            "username": "root"
+        },
+        {
+            "host": "161.35.3.74",
+            "name": "leader.codes",
+            "password": "Q12xxdd44F@big&SMALL",
+            "root": "/",
+            "username": "root"
+        },
+        {
+            "host": "157.245.137.153",
+            "name": "leader-hub",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "134.209.41.196",
+            "name": "leader_portals",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "161.35.59.64",
+            "name": "livechat.tools",
+            "password": "Q12ad44F@big&SMALL",
+            "root": "/",
+            "username": "root"
+        },
+        {
+            "host": "198.199.82.50",
+            "name": "leader_calendar",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "64.227.21.187",
+            "name": "bldr.codes",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "161.35.57.58",
+            "name": "leader_forms",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "64.227.19.22",
+            "name": "knowme.page",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "157.245.138.251",
+            "name": "leader_stories",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "64.227.15.181",
+            "name": "files.leader.codes",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "161.35.51.208",
+            "name": "leader_box",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "67.207.95.102",
+            "name": "leader_funnel",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "157.245.247.39",
+            "name": "leader_papers",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "104.131.70.58",
+            "name": "vloger.codes",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "104.131.121.60",
+            "name": "leader_time",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "104.131.124.113",
+            "name": "leader_lms",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "host": "167.172.16.146",
+            "name": "leader-help",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root"
+        },
+        {
+            "name": "leader-community",
+            "username": "root",
+            "host": "134.209.46.233",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "dev-env",
+            "host": "159.203.95.192",
+            "username": "root",
+            "password": "Q12aadd44F@big&SMALL"
+        },
+        {
+            "name": "leader-stas",
+            "host": "104.131.111.229",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-schedule",
+            "host": "104.131.51.37",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-design",
+            "host": "159.203.78.234",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-finance",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL",
+            "host": "104.131.83.46"
+        },
+        {
+            "name": "leader-meet",
+            "host": "209.97.147.3",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "leader-thefloew",
+            "host": "157.245.220.171",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-products",
+            "host": "104.131.63.157",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-loom",
+            "host": "104.131.123.113",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-vms",
+            "host": "104.131.20.171",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-tables",
+            "host": "104.131.64.185",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "leader-mailart",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL",
+            "host": "104.131.73.57"
+        },
+        {
+            "name": "leader-quiz",
+            "host": "167.71.172.187",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-woo",
+            "host": "167.172.240.111",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "blocks.codes",
+            "host": "157.245.3.70",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leader-contacts",
+            "host": "104.131.47.97",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "knowme-files",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root",
+            "host": "157.245.208.162"
+        },
+        {
+            "name": "leader-startup",
+            "host": "142.93.68.118",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "xbiz.io",
+            "host": "64.225.13.192",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "chatbot.leader.codes",
+            "host": "104.236.24.191",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "kol.startuplan.agency",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL",
+            "host": "104.131.42.148"
+        },
+        {
+            "name": "stg-env",
+            "host": "64.225.16.126",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "devtmpforbackup",
+            "host": "64.225.9.116",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "leadermail.codes",
+            "host": "157.245.93.131",
+            "username": "root",
+            "password": "Eiuy76008Riuy76009"
+        },
+        {
+            "name": "dev.leader.codes",
+            "password": "Q12ad44F@big&SMALL",
+            "username": "root",
+            "host": "161.35.142.58"
+        },
+        {
+            "name": "dev.leader.codes",
+            "host": "138.197.100.28",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "roidev",
+            "host": "104.131.24.132",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "files.vloger.codes",
+            "host": "165.227.74.37",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "soundbox.me",
+            "host": "174.138.47.210",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "files.bldr.codes",
+            "host": "165.227.76.12",
+            "username": "root",
+            "password": "Q12ad44F@big&SMALL"
+        },
+        {
+            "name": "files.codes",
+            "host": "178.128.144.161",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "kolhalashon",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root",
+            "host": "68.183.24.170"
+        },
+        {
+            "name": "TESTING",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root",
+            "host": "68.183.13.227"
+        },
+        {
+            "name": "nginx.subtitulion",
+            "host": "134.209.83.95",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "srv-env.dev",
+            "host": "143.198.230.184",
+            "username": "root",
+            "password": "Q12xd44F@big&SMALL"
+        },
+        {
+            "name": "unnamed"
+        },
+        {
+            "name": "dev-tmp",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root",
+            "host": "134.122.13.197"
+        },
+        {
+            "name": "server-meir",
+            "password": "Q12xd44F@big&SMALL",
+            "username": "root",
+            "host": "142.93.137.96"
+        }
+    ]
+}
